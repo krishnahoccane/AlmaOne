@@ -1,0 +1,6 @@
+{
+  "name": "AlmaOne",
+  "description": "Unified multi-tenant alumni network connecting schools, colleges, and universities under one verified identity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
